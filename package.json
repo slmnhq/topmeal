@@ -7,7 +7,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/slmnhq/topmeal.git"
+    "url": "https://github.com/izhukov1992/mealing.git"
   },
   "dependencies": {
       "bower": "*"
